@@ -1,0 +1,51 @@
+E:\C# Schulung\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.exe
+E:\C# Schulung\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.deps.json
+E:\C# Schulung\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.runtimeconfig.json
+E:\C# Schulung\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.dll
+E:\C# Schulung\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.pdb
+E:\C# Schulung\TGSNotifier\TGSNotifier\bin\Debug\net6.0\HtmlAgilityPack.dll
+E:\C# Schulung\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.csproj.AssemblyReference.cache
+E:\C# Schulung\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Schulung\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.AssemblyInfoInputs.cache
+E:\C# Schulung\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.AssemblyInfo.cs
+E:\C# Schulung\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.csproj.CoreCompileInputs.cache
+E:\C# Schulung\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.csproj.CopyComplete
+E:\C# Schulung\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.dll
+E:\C# Schulung\TGSNotifier\TGSNotifier\obj\Debug\net6.0\refint\TGSNotifier.dll
+E:\C# Schulung\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.pdb
+E:\C# Schulung\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.genruntimeconfig.cache
+E:\C# Schulung\TGSNotifier\TGSNotifier\obj\Debug\net6.0\ref\TGSNotifier.dll
+D:\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.exe
+D:\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.deps.json
+D:\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.runtimeconfig.json
+D:\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.dll
+D:\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.pdb
+D:\TGSNotifier\TGSNotifier\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.csproj.AssemblyReference.cache
+D:\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.AssemblyInfoInputs.cache
+D:\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.AssemblyInfo.cs
+D:\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.csproj.CoreCompileInputs.cache
+D:\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.csproj.CopyComplete
+D:\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.dll
+D:\TGSNotifier\TGSNotifier\obj\Debug\net6.0\refint\TGSNotifier.dll
+D:\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.pdb
+D:\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.genruntimeconfig.cache
+D:\TGSNotifier\TGSNotifier\obj\Debug\net6.0\ref\TGSNotifier.dll
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.exe
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.deps.json
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.runtimeconfig.json
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.dll
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\bin\Debug\net6.0\TGSNotifier.pdb
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.csproj.AssemblyReference.cache
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.AssemblyInfoInputs.cache
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.AssemblyInfo.cs
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.csproj.CoreCompileInputs.cache
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.csproj.CopyComplete
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.dll
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Debug\net6.0\refint\TGSNotifier.dll
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.pdb
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Debug\net6.0\TGSNotifier.genruntimeconfig.cache
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Debug\net6.0\ref\TGSNotifier.dll

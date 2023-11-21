@@ -1,0 +1,17 @@
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Release\net6.0\TGSNotifier.csproj.AssemblyReference.cache
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Release\net6.0\TGSNotifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Release\net6.0\TGSNotifier.AssemblyInfoInputs.cache
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Release\net6.0\TGSNotifier.AssemblyInfo.cs
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Release\net6.0\TGSNotifier.csproj.CoreCompileInputs.cache
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\bin\Release\net6.0\TGSNotifier.exe
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\bin\Release\net6.0\TGSNotifier.deps.json
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\bin\Release\net6.0\TGSNotifier.runtimeconfig.json
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\bin\Release\net6.0\TGSNotifier.dll
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\bin\Release\net6.0\TGSNotifier.pdb
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\bin\Release\net6.0\HtmlAgilityPack.dll
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Release\net6.0\TGSNotifier.csproj.CopyComplete
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Release\net6.0\TGSNotifier.dll
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Release\net6.0\refint\TGSNotifier.dll
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Release\net6.0\TGSNotifier.pdb
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Release\net6.0\TGSNotifier.genruntimeconfig.cache
+C:\Users\Ando\Desktop\TGSNotifier\TGSNotifier\obj\Release\net6.0\ref\TGSNotifier.dll
