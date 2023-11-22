@@ -75,6 +75,8 @@ namespace TagesschauScraper
             file.Close();
 
 
+            Console.WriteLine("Done!");
+
             Console.ReadLine();
         }
     }
