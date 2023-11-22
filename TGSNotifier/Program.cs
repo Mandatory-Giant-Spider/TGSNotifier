@@ -35,7 +35,7 @@ namespace TagesschauScraper
                 articleDataList.Add(parser.RequestData());
                 parser.Date = parser.Date.AddDays(-1);
 
-                // Wait for 1 second to avoid getting banned by Tagesschau
+                // Wait for 3 seconds to avoid getting banned by Tagesschau
                 Task.Delay(3000);
             }
 
